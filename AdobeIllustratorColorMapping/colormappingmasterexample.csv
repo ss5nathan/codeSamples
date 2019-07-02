@@ -1,0 +1,80 @@
+Template,Hex,Pantone,Tint %,ColorType (pantone or cmyk),Kval
+Comment,Client One,,,,
+4518,#999999,PANTONE 286 C,100,pantone,0
+4529,#0060a9,PANTONE 286 C,100,pantone,0
+4527,#0060a9,PANTONE 286 C,100,pantone,0
+4526,#0060a9,PANTONE 286 C,100,pantone,0
+4521,#0060a9,PANTONE 286 C,100,pantone,0
+4520,#0060a9,PANTONE 286 C,100,pantone,0
+4281,#0060a9,PANTONE 286 C,100,pantone,0
+4313,#0060a9,PANTONE 286 C,100,pantone,0
+4513,#0060a9,PANTONE 286 C,100,pantone,0
+4288,#0060a9,PANTONE 286 C,100,pantone,0
+Comment,Client Two,,,,
+3585,#ee3124,PANTONE 185 C,100,pantone,0
+3584,#ee3125,PANTONE 185 C,100,pantone,0
+4291,#ee3126,PANTONE 185 C,100,pantone,0
+4292,#ee3127,PANTONE 185 C,100,pantone,0
+Comment,Client Three,,,,
+4184,#c3002f,PANTONE 200 C,100,pantone,0
+4184,#77777a,PANTONE Warm Gray 9 C,100,pantone,0
+Comment,Client Four,,,,
+4314,#000000,PANTONE 412 C,100,pantone,0
+3581,#000000,PANTONE 412 C,100,pantone,0
+3583,#000000,PANTONE 412 C,100,pantone,0
+3420,#000000,PANTONE 412 C,100,pantone,0
+3417,#000000,PANTONE 412 C,100,pantone,0
+Comment,Client Five,,,,
+4255,#807979,PANTONE 8421 C,100,pantone,0
+Comment,Client Six,,,,
+4426,#402b56,PANTONE 669 C,100,pantone,0
+Comment,Client Seven,,,,
+3936,#003f62,PANTONE 2965 C,100,pantone,0
+3936,#fcb813,PANTONE 130 C,100,pantone,0
+Comment,Client Eight,,,,
+3213,#63a70a,PANTONE 369 C,100,pantone,0
+Comment,Client Nine,,,,
+4483,#0b1f2c,PANTONE 549 C,100,pantone,0
+Comment,Client Ten,,,,
+4404,#007cba,PANTONE Process Blue C,100,pantone,0
+Comment,Client Eleven,,,,
+4496,#008fc5,PANTONE 302 C,100,pantone,0
+4496,#005480,PANTONE 640 C,100,pantone,0
+4390,#008fc5,PANTONE 302 C,100,pantone,0
+4390,#005480,PANTONE 640 C,100,pantone,0
+Comment,Client Twelve,,,,
+4499,#00a3e4,PANTONE Process Blue C,100,pantone,0
+4499,#717271,PANTONE Cool Grey 9,100,pantone,0
+4499,#808285,PANTONE Cool Grey 9,100,pantone,0
+Comment,Client Thirteen,,,,
+4254,#0b5d66,PANTONE 5473 C,100,pantone,0
+4254,#006a71,PANTONE 5473 C,100,pantone,0
+4436,#0b5d66,PANTONE 5473 C,100,pantone,0
+4436,#006a71,PANTONE 5473 C,100,pantone,0
+Comment,Client Fourteen,,,,
+4423,#cf202e,PANTONE 186 C,100,pantone,0
+Comment,Client Fifteen,,,,
+4007,#8DC63F,PANTONE 2965 C,100,pantone,0
+4007,#003A63,PANTONE 2965 C,50,pantone,0
+4007,#5a83a6,PANTONE 2965 C,20,pantone,0
+4007,#b1c2d7,PANTONE 376 C,100,pantone,0
+4028,#8DC63F,PANTONE 2965 C,100,pantone,0
+4028,#003A63,PANTONE 2965 C,50,pantone,0
+4028,#5a83a6,PANTONE 2965 C,20,pantone,0
+4028,#b1c2d7,PANTONE 376 C,100,pantone,0
+4026,#8DC63F,PANTONE 2965 C,100,pantone,0
+4026,#003A63,PANTONE 2965 C,50,pantone,0
+4026,#5a83a6,PANTONE 2965 C,20,pantone,0
+4026,#b1c2d7,PANTONE 376 C,100,pantone,0
+Comment,Client Sixteen,,,,
+4215,#eb0029,PANTONE 185 C,100,pantone,0
+4215,#000000,cmyk,0,cmyk,100
+Comment,Client Seventeen,,,,
+3505,#000000,cmyk,0,cmyk,100
+4171,#000000,cmyk,0,cmyk,100
+3628,#000000,cmyk,0,cmyk,100
+Comment,Client Eighteen,,,,
+4043,#006db6,PANTONE 300 C,100,pantone,0
+4043,#4f88c5,PANTONE 300 C,70,pantone,0
+4043,#231f20,cmyk,0,cmyk,100
+É.,,,,,
