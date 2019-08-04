@@ -1,6 +1,10 @@
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
+
+/*
+This script uses Apache Batik svg rasterizer to convert svg files to png files. This script was used for clients to view svg files on all browsers.
+
+
+*/
 ini_set('allow_url_fopen',1);
 ini_set('allow_url_include',1);
 ini_set('max_execution_time', 300);

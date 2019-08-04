@@ -1,2 +1,2 @@
 # codeSamples
-A collection of code samples and useful snippets
+See some samples of my code on different projects
